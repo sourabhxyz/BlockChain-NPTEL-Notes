@@ -38,5 +38,5 @@ Every peer maintains a local copy of the block chain, Requirements:
 # Week 2
 Just see photos.
 
-
-
+# Week 3
+See slides and photos in the folder.
