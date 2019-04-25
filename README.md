@@ -43,7 +43,11 @@ See slides and photos in the folder.
 
 # Week 4, 5, 6, 7
 See slides. Ignored lots of things in week 7.
+
 Everledger - tracks provenance (the place of origin or earliest known history of something) of diamonds from mines to jewellery stores. 
+
 we.trade - bc based international trading system for a consortium of major world banks.
+
 (In HL Fabric) Only member with "Operator" permission can change the configuration of the channel. And we just have 3 permissions, viz., Reader, Writer and Operator.
+
 Just have a look at assignment 7 answers.
