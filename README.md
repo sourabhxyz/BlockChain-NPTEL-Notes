@@ -35,3 +35,8 @@ Every peer maintains a local copy of the block chain, Requirements:
 </p>
 </details>
 
+# Week 2
+Just see photos.
+
+
+
