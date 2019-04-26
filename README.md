@@ -6,7 +6,7 @@ Bitcoin is decentralized, peer to peer (P2P), permission-less (no identity, open
 Size 1 - 8 mb, has 
 1. Block Header
    * Previous Block Hash 
-   * Mining statistics used to construct the block (Bitcoin Mining: $H_k = Hash (H_{k - 1} | T | Nonce)$, "T" is the set of transactions, Nonce (which we have to find!) is such that $H_k$ has certain predefined complexity (i.e. number of zeros at the prefix). So the header as well contains current block's hash), so the header contains mining statistics such as timestamp, nonce and difficulty (difficulty determines the toughness of tampering with a block in blockchain) 
+   * Mining statistics used to construct the block (Bitcoin Mining: $H_k = Hash (H_{k - 1} | T | Nonce)$, "T" is the set of transactions, Nonce (which we have to find!) is such that $H_k$ has certain predefined complexity (i.e. number of zeros at the prefix) (We can therefore say that nonce helps in determining the difficulty of the mining algorithm). So the header as well contains current block's hash), so the header contains mining statistics such as timestamp, nonce and difficulty (difficulty determines the toughness of tampering with a block in blockchain) 
    * Merkle tree root (leaf contains hash of its item, interior node contains hash of its children thus its difficult to modify the tree, i.e. tamper proof)
 2. List of transactions
 
@@ -54,3 +54,17 @@ Just have a look at assignment 7 answers.
 
 # Week 8, 9
 Just quickly glance over all the given slides.
+
+
+
+# Assignments
+
+Week 1 : Q5
+
+Week 2 : Q5
+
+Week 6 : Q2, 3, 6, 8, 
+
+Week 7 : All, as mentioned before.
+
+Done till assignment 7.
