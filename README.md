@@ -52,5 +52,5 @@ we.trade - bc based international trading system for a consortium of major world
 
 Just have a look at assignment 7 answers.
 
-# Week 8
+# Week 8, 9
 Just quickly glance over all the given slides.
