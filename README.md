@@ -51,3 +51,6 @@ we.trade - bc based international trading system for a consortium of major world
 (In HL Fabric) Only member with "Operator" permission can change the configuration of the channel. And we just have 3 permissions, viz., Reader, Writer and Operator.
 
 Just have a look at assignment 7 answers.
+
+# Week 8
+Just quickly glance over all the given slides.
