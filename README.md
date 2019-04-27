@@ -55,8 +55,12 @@ Just have a look at assignment 7 answers.
 # Week 8, 9
 Just quickly glance over all the given slides.
 
+# Week 10
+In HL Fabric, we have following DB 
+* LevelDB (Blob, not fully queryable) 
+* CouchDB (Used for performing rich queries on state data in Hyperledger Fabric) (JSON, fully queryable)
 
-
+SideDB Motivation : Need for selectively sharing transaction data with certain entities, but block chain by default replicates accross all pears.
 # Assignments
 
 Week 1 : Q5
