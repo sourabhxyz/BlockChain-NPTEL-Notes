@@ -71,4 +71,6 @@ Week 6 : Q2, 3, 6, 8,
 
 Week 7 : All, as mentioned before.
 
-Done till assignment 7.
+Week 8, 9 : All
+
+Done till assignment 9.
